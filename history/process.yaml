@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-04-PCO2AA000-telemetered-pco2a_a_dcl_instrument_air
 data_stream: CE02SHSM-SBD12-04-PCO2AA000-telemetered-pco2a_a_dcl_instrument_air
 end_date: '2022-01-01T00:02:06.233Z'
-last_updated: '2022-01-02T14:57:08.886608Z'
+last_updated: '2022-01-02T15:03:05.872992'
 start_date: '2015-04-02T21:00:31.701Z'
-status: pending
+status: success
